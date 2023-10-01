@@ -1,0 +1,20 @@
+{"level":"error","message":"User with given email already exists","timestamp":"2023-09-30T09:16:59.635Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-09-30T09:17:27.697Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-09-30T11:38:39.234Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-09-30T11:39:19.101Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-09-30T11:41:14.752Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-09-30T11:43:09.378Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-09-30T11:44:30.824Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-09-30T11:45:20.991Z"}
+{"level":"error","message":"Invalid Email ","timestamp":"2023-10-01T06:01:19.522Z"}
+{"level":"error","message":"\"Password\" should be at least 8 characters long","timestamp":"2023-10-01T06:02:22.947Z"}
+{"level":"error","message":"Invalid Password","timestamp":"2023-10-01T06:02:36.441Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-01T06:40:36.309Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-01T06:40:48.081Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-01T06:42:19.891Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-01T06:42:32.646Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-01T07:27:37.920Z"}
+{"level":"error","message":"Invalid Password","timestamp":"2023-10-01T07:31:15.513Z"}
+{"level":"error","message":"Invalid Email ","timestamp":"2023-10-01T07:31:30.419Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-01T07:33:49.724Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-01T07:33:55.742Z"}

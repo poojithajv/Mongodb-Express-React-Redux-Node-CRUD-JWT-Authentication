@@ -8326,3 +8326,5 @@
 {"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:31:15.579Z"}
 {"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:33:55.042Z"}
 {"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:33:56.095Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:34:24.790Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:34:25.430Z"}

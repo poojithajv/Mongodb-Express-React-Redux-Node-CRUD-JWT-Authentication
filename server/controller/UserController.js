@@ -4,10 +4,33 @@ const jwt = require("jsonwebtoken");
 const logger=require('../util/logger')
 const {UserModel,validate1,validate2} = require("../model/UserModel");
 
+
+// Function to generate custom user IDs
+// function generateCustomId() {
+//       // Find the latest user with a custom ID and get its number
+//       const latestUser = UserModel.findOne({}, {}, { sort: { userId: -1 } });
+//       console.log(latestUser.userId)
+//       let nextNumber = 1;
+  
+//       if (latestUser && latestUser.userId) {
+//         const parts = latestUser.userId.split('_');
+//         const lastNumber = parseInt(parts[1], 10);
+//         if (!isNaN(lastNumber)) {
+//           nextNumber = lastNumber + 1;
+//         }
+//       }
+  
+//       // Format the custom ID as "user_000X"
+//       return `user_${String(nextNumber).padStart(4, '0')}`;
+//     }
+
 // register a user
 const registerUser = asyncHandler(async (req, res) => {
     try{
+        // Generate a custom ID
+        console.log(req.body)
         const {error}=validate1(req.body)
+        console.log(error)
         if (error){
             logger.error({message:error.details[0].message})
             return res.status(400).send({message:error.details[0].message})
@@ -89,7 +112,8 @@ const getallusers = asyncHandler(async (req,res)=>{
 // get a user by id
 const getuser = asyncHandler(async (req, res) => {
     try{
-    const user = await UserModel.findById(req.params.id);
+    const {userId}=req.params
+    const user = await UserModel.findOne({userId});
     if (!user) {
         logger.error('user not found')
         res.status(404).send({message:"user not found"})
@@ -108,7 +132,8 @@ const getuser = asyncHandler(async (req, res) => {
 // update a user
 const updateuser = asyncHandler(async (req, res) => {
     try{
-        const user = await UserModel.findById(req.params.id);
+        const {userId}=req.params
+        const user = await UserModel.findOne({userId});
         if (!user) {
             logger.error('user not found')
             res.status(404).send({message:"user not found"})
@@ -120,7 +145,7 @@ const updateuser = asyncHandler(async (req, res) => {
     //   throw new Error("User don't have permission to update other users");
     // }
 
-    const updatedUser = await UserModel.findByIdAndUpdate(
+    const updatedUser = await UserModel.findOneAndUpdate(
         req.params.id,
         req.body,
         { new: true }
@@ -138,7 +163,8 @@ const updateuser = asyncHandler(async (req, res) => {
 // delete a user
   const deleteuser = asyncHandler(async (req, res) => {
     try{
-        const user = await UserModel.findById(req.params.id);
+        const {userId}=req.params
+        const user = await UserModel.findOne({userId});
         if (!user) {
             logger.error('user not found')
             res.status(404).send({message:"user not found"})
@@ -148,7 +174,7 @@ const updateuser = asyncHandler(async (req, res) => {
         //   res.status(403);
         //   throw new Error("User don't have permission to update other user contacts");
         // }
-        await UserModel.deleteOne({ _id: req.params.id });
+        await UserModel.deleteOne({ userId: req.params.userId });
         logger.info('User Deleted successfully')
         return res.status(200).json({message:"User Deleted successfully"});
     }

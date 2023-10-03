@@ -7791,3 +7791,533 @@
 {"level":"info","message":"user updated successfully","timestamp":"2023-10-01T07:34:48.971Z"}
 {"level":"info","message":"All users are retrieved","timestamp":"2023-10-01T07:34:49.051Z"}
 {"level":"info","message":"All users are retrieved","timestamp":"2023-10-01T07:34:49.120Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T05:56:11.155Z"}
+{"level":"error","message":"couldn't connect to database","timestamp":"2023-10-03T05:56:41.313Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T05:58:31.298Z"}
+{"level":"error","message":"couldn't connect to database","timestamp":"2023-10-03T05:59:01.550Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:00.051Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:10.283Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:26.212Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:37.428Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:45.642Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:00:51.614Z"}
+{"level":"error","message":"couldn't connect to database","timestamp":"2023-10-03T06:01:21.849Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:03:47.101Z"}
+{"level":"error","message":"couldn't connect to database","timestamp":"2023-10-03T06:04:17.275Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:09:10.706Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:09:11.536Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:09:36.768Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:09:38.252Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T06:12:15.311Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:12:15.423Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:12:15.464Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:15:30.047Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:16:42.316Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:16:42.349Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:16:47.977Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:16:48.020Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:18:30.647Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:18:30.687Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:20:44.360Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T06:22:14.319Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:22:14.391Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T06:22:14.429Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:27:30.270Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:27:30.957Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:29:06.369Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:29:07.297Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:52:20.231Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:52:21.157Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:52:43.397Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:52:45.073Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:52:57.832Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:52:58.808Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:56:05.971Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:56:06.759Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:56:34.887Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:56:35.925Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:57:59.010Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:57:59.858Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:58:04.601Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:58:05.757Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:58:58.402Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:58:59.104Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T06:59:09.795Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T06:59:12.082Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T06:59:39.595Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:00:37.642Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:01:47.172Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T07:02:11.395Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T07:02:11.526Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T07:02:11.581Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:02:35.533Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:02:36.306Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:02:42.713Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:02:43.343Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:02:54.962Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:02:55.563Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:02:58.262Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:03:25.991Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:03:40.771Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:03:42.118Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:03:55.572Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:03:56.150Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:03:56.361Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:04:16.998Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:04:17.268Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:04:17.797Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:04:42.698Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:04:43.552Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:04:43.901Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:05:00.276Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:05:01.055Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:05:01.434Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:05:12.314Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:05:13.111Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:05:13.231Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:05:55.764Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:05:56.077Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:05:56.714Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:05:57.065Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:06:05.556Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:06:06.293Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:06:09.588Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:06:10.616Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:06:22.045Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:06:23.131Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:06:34.586Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:06:34.929Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:06:35.502Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:11:26.469Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:11:27.454Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:11:40.155Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:11:41.210Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:11:48.684Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:11:49.441Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:11:51.781Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:11:52.400Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:12:19.255Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:12:19.884Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:12:49.817Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:14:59.298Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:15:00.044Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:16:44.958Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:16:45.638Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:16:54.001Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:17:02.422Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:17:03.143Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:17:03.659Z"}
+{"level":"error","message":"\"User Name\" is required","timestamp":"2023-10-03T07:17:04.223Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:17:57.274Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:17:58.409Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:18:25.397Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:18:26.255Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:18:27.253Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:19:19.482Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:21:32.977Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:21:34.150Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:21:53.590Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:21:54.211Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:21:59.419Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:22:00.177Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:22:20.469Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:22:21.115Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:22:29.007Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:22:58.743Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:23:02.042Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:23:02.697Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:23:03.216Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:23:03.669Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:23:04.117Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:23:11.817Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:23:12.947Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T07:23:13.717Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:23:31.176Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:23:31.896Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:23:32.373Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:24:16.549Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:24:59.561Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:25:00.442Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:25:38.846Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:27:25.770Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:28:23.637Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:31:09.463Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:31:10.201Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:31:27.004Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:31:27.627Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:32:46.464Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:32:47.310Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T07:32:49.713Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:32:54.804Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:33:10.498Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:35:29.504Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:35:30.095Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:36:04.796Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:36:05.454Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:36:21.428Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:36:22.063Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:36:28.614Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:36:32.675Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:37:27.216Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:37:27.910Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:37:30.400Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T07:37:59.469Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T07:38:00.379Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T07:38:03.489Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:44:15.097Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:44:15.844Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:44:43.882Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:44:44.544Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:45:14.463Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:45:15.044Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:45:19.611Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:45:52.022Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:45:52.746Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:45:54.838Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:45:55.407Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T08:46:19.108Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:46:23.798Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:46:45.692Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:46:46.677Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:47:20.566Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:47:34.267Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:48:22.412Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T08:48:35.720Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:49:11.963Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:49:12.615Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:49:19.594Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:49:20.273Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:49:31.690Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T08:49:43.842Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:49:49.033Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:50:41.831Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:50:42.629Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:50:46.953Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:51:17.566Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:51:18.153Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:51:20.153Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:51:38.355Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:51:39.022Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T08:51:41.115Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:51:50.241Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:51:50.959Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:51:51.506Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:54:07.705Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:54:08.438Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:54:19.789Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:54:20.377Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:54:57.860Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:54:58.428Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:56:01.757Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:56:02.459Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:56:36.352Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:57:16.705Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:57:17.353Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:57:19.547Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T08:57:46.477Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T08:58:09.607Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T08:58:10.223Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:01:21.530Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:01:22.287Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:02:46.806Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:02:47.367Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:02:52.699Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:02:53.393Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:03:09.441Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:03:10.292Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:03:13.102Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:03:13.754Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:03:18.111Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:03:18.666Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:03:20.852Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:03:21.395Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T09:03:28.281Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:03:32.329Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:04:07.789Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:04:23.270Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:04:43.176Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:05:54.520Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:05:56.244Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T09:06:04.836Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:06:11.439Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:06:12.763Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:06:13.396Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:06:25.492Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:06:26.067Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:06:29.916Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:06:49.526Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:06:50.257Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:06:54.349Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:07:11.890Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:07:12.501Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:07:15.178Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:07:35.253Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:07:35.926Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:07:38.703Z"}
+{"level":"error","message":"Invalid Email ","timestamp":"2023-10-03T09:08:19.542Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T09:08:22.725Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T09:08:36.603Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:08:36.705Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:08:36.755Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:08:40.472Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:08:46.379Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:09:14.214Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:14.450Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:09:18.872Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:20.601Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:20.654Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:09:25.177Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:26.427Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:26.474Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:09:29.274Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:29.826Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:29.877Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:09:32.817Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:33.453Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:33.606Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T09:09:36.061Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:36.630Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:09:36.684Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:09:52.339Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:09:53.576Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:09:54.499Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:09:55.290Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:10:32.057Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:10:45.558Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:10:46.291Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:10:49.434Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:10:50.245Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:10:50.620Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:10:51.546Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:11:07.254Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:11:07.894Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:11.275Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:12.059Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:11:21.373Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:11:22.008Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:34.103Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:35.174Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:35.968Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:11:45.435Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:11:46.405Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:47.284Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:48.198Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:11:53.493Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:12:13.406Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:12:14.036Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:12:23.490Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:12:24.067Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:12:24.664Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:12:25.517Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:12:26.209Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:13:29.383Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:13:30.664Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:13:41.979Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:13:43.795Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:14:11.717Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:14:12.436Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:14:18.947Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:14:19.619Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:14:20.164Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:14:27.245Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:14:27.881Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T09:14:30.728Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:14:36.139Z"}
+{"level":"error","message":"User with given email already exists","timestamp":"2023-10-03T09:14:40.743Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:15:11.674Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:16:09.250Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:16:10.049Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:16:42.916Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:16:44.063Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:16:44.497Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:16:45.860Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:16:55.798Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:16:56.470Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:01.911Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:02.820Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:17:14.902Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:17:15.686Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:17:21.082Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:17:22.144Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:22.680Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:23.635Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:25.125Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:17:35.580Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:17:46.504Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:17:47.311Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:17:51.381Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:18:10.616Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:18:11.415Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:18:11.974Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:18:12.840Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:18:35.583Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:18:36.352Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:18:36.947Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:18:37.775Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:18:42.867Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:18:51.068Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:18:51.841Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:19:15.780Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:19:16.562Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:19:17.176Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:19:18.248Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:19:27.536Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:19:46.233Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:19:46.864Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:19:48.870Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:19:49.584Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:19:53.631Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:19:54.430Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:19:55.701Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:20:09.352Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:20:34.866Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:20:35.682Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:21:00.861Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:21:01.610Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:21:04.366Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:21:19.605Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:21:48.458Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:21:49.173Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:22:04.251Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:22:04.968Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:22:05.465Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:22:16.118Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:22:54.120Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:22:54.879Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:24:15.886Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T09:25:12.366Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:51:24.909Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:51:26.288Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T09:51:37.750Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:52:14.312Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:52:49.785Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:53:12.870Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:53:13.501Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:53:15.870Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:53:42.063Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:53:42.913Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:53:44.005Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:54:06.166Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:54:06.812Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:54:07.096Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:54:18.759Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:54:19.911Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:54:29.241Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:54:30.635Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T09:54:30.941Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:55:42.210Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:55:42.472Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:55:43.352Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:55:59.351Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:55:59.991Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:56:11.177Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:56:11.927Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T09:56:39.236Z"}
+{"level":"info","message":"User retreived successfully","timestamp":"2023-10-03T09:57:02.322Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:58:21.692Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:58:23.326Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T09:58:38.225Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T09:58:39.524Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T09:58:51.871Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:00:13.291Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:00:13.994Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:00:14.112Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:01:52.910Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:01:53.949Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:01:57.016Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:02:51.132Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:02:51.879Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:02:59.075Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:02:59.882Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:03:35.923Z"}
+{"level":"error","message":"User is not authorized","timestamp":"2023-10-03T10:04:51.261Z"}
+{"level":"error","message":"User is not authorized or token is missing","timestamp":"2023-10-03T10:04:51.263Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:05:17.509Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:05:33.865Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:05:45.493Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:06:33.291Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:06:34.137Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:06:59.649Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T10:07:11.747Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:07:11.867Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:07:12.189Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:07:17.400Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:07:17.456Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:08:44.428Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:08:45.735Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:08:57.127Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:14:22.047Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:14:22.892Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:14:29.097Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:14:31.162Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:14:36.052Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:14:36.739Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:14:37.193Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:14:43.725Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:15:02.604Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:15:03.282Z"}
+{"level":"info","message":"User retreived successfully","timestamp":"2023-10-03T10:15:05.201Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:15:42.032Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:15:43.173Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:16:45.385Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:16:46.199Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:16:59.649Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:17:00.302Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:17:36.653Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:17:37.232Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:17:52.640Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:17:53.329Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:18:08.835Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:18:32.519Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:18:33.282Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T10:18:35.218Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:18:55.391Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:19:12.632Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:19:13.478Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:19:15.484Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:19:33.646Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:19:34.436Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:19:35.924Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:19:55.718Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:19:56.390Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:20:01.076Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:20:02.042Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:20:03.095Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:20:27.629Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:20:28.503Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:20:44.781Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:20:45.693Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:20:47.105Z"}
+{"level":"error","message":"user not found","timestamp":"2023-10-03T10:20:57.236Z"}
+{"level":"error","message":"Internal Server Error","timestamp":"2023-10-03T10:21:00.708Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:21:07.028Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:21:07.103Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:22:04.468Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:22:05.231Z"}
+{"level":"info","message":"user updated successfully","timestamp":"2023-10-03T10:22:05.585Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:22:22.242Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:22:22.291Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:22:49.616Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:22:50.279Z"}
+{"level":"info","message":"user updated successfully","timestamp":"2023-10-03T10:22:53.542Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:23:09.365Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:23:16.182Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:23:16.246Z"}
+{"level":"info","message":"user updated successfully","timestamp":"2023-10-03T10:23:25.630Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:23:28.648Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:23:28.703Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:24:52.288Z"}
+{"level":"info","message":"User Created Successfully","timestamp":"2023-10-03T10:25:10.806Z"}
+{"level":"info","message":"Server is running at 3001","timestamp":"2023-10-03T10:26:41.633Z"}
+{"level":"info","message":"Connected to database successfully","timestamp":"2023-10-03T10:26:42.562Z"}
+{"level":"info","message":"Logged in successfully","timestamp":"2023-10-03T10:26:50.521Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:26:50.668Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:26:50.733Z"}
+{"level":"info","message":"User Deleted successfully","timestamp":"2023-10-03T10:26:53.373Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:26:55.163Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:26:55.232Z"}
+{"level":"info","message":"user updated successfully","timestamp":"2023-10-03T10:27:22.758Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:27:22.862Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:27:22.912Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:27:28.138Z"}
+{"level":"info","message":"All users are retrieved","timestamp":"2023-10-03T10:27:28.184Z"}
